@@ -1,4 +1,4 @@
-###  	*Custom Side for AnimeBot*
+###  	*Custom Site for AnimeBot*
 
 > Developer: [KingCh1ll](https://github.com/KingCh1ll)
 Words from me: Big Thank you for doing this, im not the best in html and he helped me. So help him too, and join his [Server](https://discord.gg/N9PeGaTzbT)
